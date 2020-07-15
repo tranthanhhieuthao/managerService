@@ -1,50 +1,50 @@
 {
 "CMND": {
-data: [
+"data": [
 {
-code: "451236589",
-name: "TranHieu",
-email: "tranhieu@gmail.com",
-phone: "0374006604"
+"code": "451236589",
+"name": "TranHieu",
+"email": "tranhieu@gmail.com",
+"phone": "0374006604"
 },
 {
-code: "652158944",
-name: "TranThao",
-email: "tranthao@gmail.com",
-phone: "0956214587"
+"code": "652158944",
+"name": "TranThao",
+"email": "tranthao@gmail.com",
+"phone": "0956214587"
 },
 {
-code: "123456789",
-name: "XuanHai",
-email: "xuanhai@gmail.com",
-phone: "09894568998"
+"code": "123456789",
+"name": "XuanHai",
+"email": "xuanhai@gmail.com",
+"phone": "09894568998"
 },
 {
-code: "ThanhQuang",
-name: "Thanhquang",
-email: "thanhquang@gmail.com",
-phone: "09886689868"
+"code": "ThanhQuang",
+"name": "Thanhquang",
+"email": "thanhquang@gmail.com",
+"phone": "09886689868"
 },
 {
-code: "6351245795",
-name: "LinhChi",
-email: "linhchi@gmail.com",
-phone: "0389898889"
+"code": "6351245795",
+"name": "LinhChi",
+"email": "linhchi@gmail.com",
+"phone": "0389898889"
 },
 {
-code: "Happy",
-name: "happy",
-email: "happy@gmail.com",
-phone: "08888588588"
+"code": "Happy",
+"name": "happy",
+"email": "happy@gmail.com",
+"phone": "08888588588"
 }
 ]
 },
 "infoCustomer": {
-data: {
-nameCustomer: "TranHieu",
-mst: "451236589",
-serial: "451236589",
-address: "Đô lương,Nghệ An"
+"data": {
+"nameCustomer": "TranHieu",
+"mst": "451236589",
+"serial": "451236589",
+"address": "Đô lương,Nghệ An"
 }
 }
 }
