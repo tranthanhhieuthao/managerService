@@ -1,0 +1,50 @@
+{
+"CMND": {
+data: [
+{
+code: "451236589",
+name: "TranHieu",
+email: "tranhieu@gmail.com",
+phone: "0374006604"
+},
+{
+code: "451236589",
+name: "TranHieu",
+email: "tranhieu@gmail.com",
+phone: "0374006604"
+},
+{
+code: "451236589",
+name: "TranHieu",
+email: "tranhieu@gmail.com",
+phone: "0374006604"
+},
+{
+code: "451236589",
+name: "TranHieu",
+email: "tranhieu@gmail.com",
+phone: "0374006604"
+},
+{
+code: "451236589",
+name: "TranHieu",
+email: "tranhieu@gmail.com",
+phone: "0374006604"
+},
+{
+code: "451236589",
+name: "TranHieu",
+email: "tranhieu@gmail.com",
+phone: "0374006604"
+}
+]
+},
+"infoCustomer": {
+data: {
+nameCustomer: "TranHieu",
+mst: "451236589",
+serial: "451236589",
+address: "Đô lương,Nghệ An"
+}
+}
+}
