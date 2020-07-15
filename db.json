@@ -1,5 +1,6 @@
 {
 "CMND": {
+"message": "SUCCESS",
 "data": [
 {
 "code": "451236589",
@@ -40,6 +41,7 @@
 ]
 },
 "infoCustomer": {
+"message": "SUCCESS",
 "data": {
 "nameCustomer": "TranHieu",
 "mst": "451236589",
